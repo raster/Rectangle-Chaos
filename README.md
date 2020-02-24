@@ -1,4 +1,4 @@
-### Rectangle Chaos
+# Rectangle Chaos
 
 This is a Processing sketch that creates a grid of rectangles.
 
