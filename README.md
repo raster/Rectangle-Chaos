@@ -2,7 +2,7 @@
 
 This is a Processing sketch that creates a grid of rectangles.
 
-You can adjust some varisables to make things more chaotic as more rows are drawn.
+You can adjust some variables but basically you'll get randomly generated robot faces.
 
 The output is a vector PDF file.
 
